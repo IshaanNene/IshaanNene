@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishaan Nene</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaannene&label=Profile%20views&color=0e75b6&style=flat" alt="ishaannene" /> </p>
 
