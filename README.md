@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaannene&" alt="ishaannene" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ishaan-nene-517247256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishaan-nene-517247256" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/ishaannene28028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ishaannene28028" height="30" width="40" /></a>
@@ -37,6 +37,8 @@
 <a href="https://www.hackerrank.com/ishaannene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishaannene" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ishaannene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishaannene" height="30" width="40" /></a>
 </p>
+
+<h2 align="left">Technologies</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
