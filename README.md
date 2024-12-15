@@ -22,13 +22,6 @@
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaannene&show_icons=true&locale=en&layout=compact" alt="ishaannene" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaannene&show_icons=true&locale=en" alt="ishaannene" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaannene&" alt="ishaannene" /></p>
-
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ishaan-nene-517247256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishaan-nene-517247256" height="30" width="40" /></a>
