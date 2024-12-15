@@ -19,7 +19,9 @@
 - 📫 How to reach me **ishaannene@gmail.com**
 
 - ⚡ Fun fact **One of the best Guitarist in my college**
-  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaannene&hide=css,html&theme=tokyonight)
+this is the code
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
 <h2 align="left">Connect with me:</h2>
