@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ishaan Nene</h1>
-<h3 align="center">A passionate developer from India</h3>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaannene&label=Profile%20views&color=0e75b6&style=flat" alt="ishaannene" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaannene" alt="ishaannene" /></a> </p>
 
-- 🔭 I’m currently working on [GoShell](https://github.com/IshaanNene/GoShell)
+- 🔭 I’m currently working on [BlunderBuss](https://github.com/IshaanNene/BlunderBuss)
 
-- 👯 I’m looking to collaborate on [sPyC](https://github.com/IshaanNene/sPyC)
+- 👯 I’m looking to collaborate on [AlgoRank]([https://github.com/IshaanNene/sPyC](https://github.com/IshaanNene/AlgoRank))
 
 - 🤝 I’m looking for help with [Collosus](https://github.com/IshaanNene/Colossus)
 
